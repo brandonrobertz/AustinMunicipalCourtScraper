@@ -1,6 +1,8 @@
 AustinMunicipalCourtScraper
 ===========================
 
+*NOTE: This is no longer maintained and will not work with the current municipal court input validation. To request copies of this data, please contact me directly.*
+
 The Austin Municipal Court takes care of most extremely low level crimes like traffic violations and misc fines. This tool asks for a person's last name and DOB, and then grabs their entire Austin Municipal Court case history, and writes it to a CSV file.
 
 - Each individual violation can easily have twenty or more "events" associated with it. Everything that happens in a case's progress is recorded and available online ... everything from when you first get the ticket, to when they send you a reminder to pay, to someone getting an late fee, to a case being dismissed. This tool records all events.
