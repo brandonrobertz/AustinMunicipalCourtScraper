@@ -1,7 +1,7 @@
 AustinMunicipalCourtScraper
 ===========================
 
-*NOTE: This is no longer maintained and will not work with the current municipal court input validation. To request copies of this data, please contact me directly.*
+*NOTE: This is no longer maintained and may not work with the current municipal court input validation and DOM. To request archival copies of this data (through 2015), please contact me directly.*
 
 The Austin Municipal Court takes care of most extremely low level crimes like traffic violations and misc fines. This tool asks for a person's last name and DOB, and then grabs their entire Austin Municipal Court case history, and writes it to a CSV file.
 
